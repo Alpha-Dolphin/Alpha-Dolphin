@@ -4,7 +4,7 @@ Sorry about the mess, please don't mind that. Welcome to my Github - Here you'll
 <details>
 <summary>My languages</summary>
 
-| Experience 1-5| Language |
+| Proficiency 1-5| Language |
 |-----:|-----------|
 |     4| C|
 |     3|  Java   |
