@@ -1,5 +1,16 @@
 ### Hi there 👋
+<details>
+<summary>My languages </summary>
 
+| Experience Rank | Languages |
+|-----:|-----------|
+|     1| C|
+|     2|  Java   |
+|     3| Python       |
+  |     4| C#       |
+|     5| SQL       |
+
+</details>
 <!--
 **Alpha-Dolphin/Alpha-Dolphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
