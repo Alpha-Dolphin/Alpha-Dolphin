@@ -4,7 +4,7 @@ Sorry about the mess, please don't mind that. Welcome to my Github - Here you'll
 <details>
 <summary>My languages</summary>
 
-| Ordinal Ranking | Languages |
+| Ordinal Experience| Language |
 |-----:|-----------|
 |     1| C|
 |     2|  Java   |
