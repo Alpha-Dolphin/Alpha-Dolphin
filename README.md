@@ -9,6 +9,7 @@
 |     3| Python       |
   |     4| C#       |
 |     5| SQL       |
+|     6| VB.NET       |
 
 </details>
 <!--
