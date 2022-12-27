@@ -1,13 +1,15 @@
-### Hi there 👋
+# Hi there 👋
+Sorry about the mess, please don't mind that. Welcome to my Github - Here you'll find all of my half-baked ideas and half-finished projects that I threw on my Github because I was going to be away from my desktop for a while. Hopefully I'll put out some more cool stuff soon. ~~vi > emacs~~
+
 <details>
-<summary>My languages </summary>
+<summary>My languages</summary>
 
 | Experience Rank | Languages |
 |-----:|-----------|
 |     1| C|
 |     2|  Java   |
 |     3| Python       |
-  |     4| C#       |
+|     4| C#       |
 |     5| SQL       |
 |     6| VB.NET       |
 
