@@ -4,14 +4,14 @@ Sorry about the mess, please don't mind that. Welcome to my Github - Here you'll
 <details>
 <summary>My languages</summary>
 
-| Ordinal Experience| Language |
+| Experience 1-5| Language |
 |-----:|-----------|
-|     1| C|
-|     2|  Java   |
-|     3| Python       |
-|     4| C#       |
-|     5| SQL       |
-|     6| VB.NET       |
+|     4| C|
+|     3|  Java   |
+|     3| C#       |
+|     2.5| Python       |
+|     2| SQL       |
+|     1.5| VB.NET       |
 
 </details>
 <!--
