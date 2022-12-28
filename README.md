@@ -9,7 +9,7 @@ Sorry about the mess, please don't mind that. Welcome to my Github - Here you'll
 |     4| C|
 |     3|  Java   |
 |     3| C#       |
-|     3| (X)HTML       |
+|     3| XHTML/HTML       |
 |     2.5| Python       |
 |     2| SQL       |
 |     1.5| VB.NET       |
