@@ -12,6 +12,7 @@ Sorry about the mess, please don't mind that. Welcome to my Github - Here you'll
 |     3| C#       |
 |     3| XHTML/HTML       |
 |     2.5| Python       |
+|     2| Rust       |
 |     2| SQL       |
 |     1.5| VB.NET       |
 
