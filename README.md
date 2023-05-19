@@ -1,33 +1,27 @@
-# My Github
-Sorry about the mess, please don't mind that. Welcome to my Github - Here you'll find all of my half-baked ideas and half-finished projects that I threw on my Github because I was going to be away from my desktop for a while. Hopefully I'll put out some more cool stuff soon. ~~vi > emacs~~
+![Header](./header.png)
 
-<details>
-<summary>My languages</summary>
+<h2 align="center">Alpha-Dolphin</h2>
 
-| Proficiency 0-5| Language |
-|-----:|-----------|
-|     4| C|
-|     3|  Java   |
-|     3|  ASMx86   |
-|     3| C#       |
-|     3| XHTML/HTML       |
-|     3| Python       |
-|     2| Rust       |
-|     2| SQL       |
-|     1.5| VB.NET       |
+<div align="center">
+  <a href="https://github.com/Alpha-Dolphin">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Alpha-Dolphin&label=View+count" alt="Profile Views Count">
+  </p>
+</a>
 
-</details>
-<!--
-**Alpha-Dolphin/Alpha-Dolphin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=Alpha-Dolphin&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-Dolphin&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=9f9f9f&count_private=true" />
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+
+![Footer](./footer.png)
